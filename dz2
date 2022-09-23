@@ -1,0 +1,33 @@
+class dog:
+    def__init__(self):
+       self.walk = True
+       
+    def work(self):
+        print("ходит")
+        
+    def__init__(self):
+       self.eat = True
+        
+    def work(self):
+        print("ест")
+        
+    def__init__(self):
+       self.sleep = True
+        
+    def work(self):
+        print("спит")
+        
+    def__init__(self):
+       self.poop = True
+       
+    def work(self):
+        print("какает")  
+           
+        
+d = Dog()
+
+
+d.walk()
+d.eat()
+d.sleep()
+d.poop()
